@@ -1,1 +1,3 @@
 Fourt file text
+
+This file was modifideg in the feature <i class="fa fa-file-picture-o" aria-hidden="true"></i>
