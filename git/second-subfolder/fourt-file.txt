@@ -1,3 +1,7 @@
 Fourt file text
 
+<<<<<<< HEAD
 Changes file text branch
+=======
+This file was modifideg in the feature <i class="fa fa-file-picture-o" aria-hidden="true"></i>
+>>>>>>> new-feature
